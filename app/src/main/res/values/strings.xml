@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DemoSdCard</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="et_input_name">User ID</string>
+    <string name="et_password_input">Password</string>
+    <string name="bt_login">LOGIN</string>
+    <string name="bt_load">LOAD DATA</string>
+    <string name="bt_save">SAVE DATA</string>
+</resources>
